@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    margin-top: 60px;
+}
+h1 {
+    margin-bottom: 20px;
+    font-size: 25px;
+    color:black;
+}
+button {
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#counter {
+    font-size: 20px;
+    margin: 15px;
+}
+button:hover {
+    color:rgb(255, 0, 0);
+    transform: scale(1.5);
+}
